@@ -1,1 +1,2 @@
-# ViewPagerZoomTransformer
+##之前在UI中国上看到一个不错的设计，于是就想着实现此效果，效果详细见下图
+![](/images/937750.gif) 
